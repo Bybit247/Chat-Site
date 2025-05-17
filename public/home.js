@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>. Our core values define who we are: We listen, care, and improve Join a dynamic team where passion meets purpose. At Bybit, we celebrate creativity, collaboration, and the relentless pursuit of excellence.</p>
           </div>
         `
         break
